@@ -7,6 +7,17 @@ Dec 2023: initial commit.
 ## Approach
 ![](figs/berdiff.png)
 
+## Requirements
+```
+- Linux Platform
+- torch==1.12.1+cu102 # depends on the CUDA version of your machine
+- torchvision==0.13.1+cu102
+- Python==3.9.7
+- numpy==1.21.2
+- blobfile==2.0.0
+- argparse==1.4.0
+```
+
 ## Citation
 If you find our work and code helpful, please kindly cite the corresponding paper:
 ```
