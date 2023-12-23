@@ -54,6 +54,9 @@ A checkpoint can be downloaded from [[Google Drive](https://drive.google.com/dri
 - argparse==1.4.0
 ```
 
+## Thanks
+Code copied a lot from [openai/improved-diffusion](https://github.com/openai/improved-diffusion)
+
 ## Citation
 If you find our work and code helpful, please kindly cite the corresponding paper:
 ```
