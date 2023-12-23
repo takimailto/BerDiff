@@ -41,7 +41,7 @@ LIDC/
 ```
 
 ## Checkpoint
-A checkpoint can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1HxsR6NJOFILcZzLrcXKfIttctlhdl71I?usp=sharing)
+A checkpoint can be downloaded from [[Google Drive](https://drive.google.com/drive/folders/1HxsR6NJOFILcZzLrcXKfIttctlhdl71I?usp=sharing)](https://drive.google.com/drive/folders/1HxsR6NJOFILcZzLrcXKfIttctlhdl71I?usp=sharing)
 
 ## Requirements
 ```
