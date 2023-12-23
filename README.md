@@ -5,7 +5,7 @@ This is the official implementation of the paper "BerDiff: Conditional Bernoulli
 Dec 2023: initial commit.  
 
 ## Approach
-![](figs/berdiff.pdf)
+![](figs/berdiff.png)
 
 ## Citation
 If you find our work and code helpful, please kindly cite the corresponding paper:
