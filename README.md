@@ -8,7 +8,7 @@ Dec 2023: initial commit.
 ![](figs/berdiff.png)
 
 ## Data Preparation
-The LIDC-IDRI dataset can be downloaded from [data link](https://pantheon.corp.google.com/storage/browser/hpunet-data/lidc_crops)
+The LIDC-IDRI dataset can be downloaded from [data link](https://pantheon.corp.google.com/storage/browser/hpunet-data/lidc_crops). It is preprocessed and given by [Probabilistic UNet](https://github.com/SimonKohl/probabilistic_unet)
 
 ## Requirements
 ```
