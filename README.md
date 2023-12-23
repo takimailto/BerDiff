@@ -10,6 +10,36 @@ Dec 2023: initial commit.
 ## Data Preparation
 The LIDC-IDRI dataset can be downloaded from [data link](https://pantheon.corp.google.com/storage/browser/hpunet-data/lidc_crops). It is preprocessed and given by [Probabilistic UNet](https://github.com/SimonKohl/probabilistic_unet)
 
+#### Dataset structure:
+```
+LIDC/
+  |--train/
+      |--images/
+        |--LIDC-IDRI-0001/
+          |--z-105.0_c0.png
+          |--z-107.0_c0.png
+          ...
+        |--LIDC-IDRI-0001/
+        ...
+      |--gt/
+        |--LIDC-IDRI-0001/
+          |--z-105.0_c0_l0.png
+          |--z-105.0_c0_l1.png
+          |--z-105.0_c0_l2.png
+          |--z-105.0_c0_l3.png
+          |--z-107.0_c0_l0.png
+          |--z-107.0_c0_l1.png
+          |--z-107.0_c0_l2.png
+          |--z-107.0_c0_l3.png
+          ...
+        |--LIDC-IDRI-0001/
+        ...
+  |--val/
+  |--test/
+      |--quarter_1mm
+      |--full_1mm
+```
+
 ## Requirements
 ```
 - Linux Platform
