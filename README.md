@@ -40,6 +40,9 @@ LIDC/
       |--full_1mm
 ```
 
+## Checkpoint
+A checkpoint can be downloaded from 
+
 ## Requirements
 ```
 - Linux Platform
