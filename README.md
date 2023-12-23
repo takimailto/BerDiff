@@ -7,6 +7,9 @@ Dec 2023: initial commit.
 ## Approach
 ![](figs/berdiff.png)
 
+## Data Preparation
+The LIDC-IDRI dataset can be downloaded from [data link](https://pantheon.corp.google.com/storage/browser/hpunet-data/lidc_crops)
+
 ## Requirements
 ```
 - Linux Platform
