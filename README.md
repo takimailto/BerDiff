@@ -36,8 +36,6 @@ LIDC/
         ...
   |--val/
   |--test/
-      |--quarter_1mm
-      |--full_1mm
 ```
 
 ## Checkpoint
